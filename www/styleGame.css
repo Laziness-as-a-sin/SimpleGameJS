@@ -1,0 +1,12 @@
+canvas {
+	background-image: url(pictures/fon1.png);
+	display: block;
+	margin: 0 auto;
+	border: 1px solid blue;
+}
+
+.stext{
+	position: fixed;
+	color: blue;
+	font-size: 30px;
+}
